@@ -526,7 +526,7 @@
             el: '#app',
             data: {
                 message: 'Hello Vue!',
-                test: '123' 
+                test: 'Pureku' 
             }
         })
     </script>
